@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O [Divulgue seu evento](https://lorransalberici.github.io/explorer-stage03-p01/s) é uma landing page para usar como cartão de visitas de academia.
+O [Divulgue seu evento](https://lorransalberici.github.io/explorer-stage03-p01/) é uma landing page para usar como cartão de visitas de academia.
 
 ## 🔖 Layout
 
